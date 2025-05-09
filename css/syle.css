@@ -86,4 +86,47 @@ section {
   border: 2px;
   border-style: solid;
   border-color: #7B462F;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #908F90;
+}
+
+.navbar-section-text {
+  align-items: center;
+  text-align: center;
+  margin-top: 31px;
+}
+
+.navbar-section-text h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 59px;
+}
+
+span {
+  color: #E19F65;
+}
+
+.navbar-section-text h3 {
+  margin-top: 26px;
+  color: #7d7d7d;
+  font-weight: 600;
+}
+
+.download-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 51px;
+}
+
+.app-btn img {
+  width: 151px;
+  cursor: pointer;
+}
+
+.play-btn img {
+  width: 151px;
+  margin-left: 11px;
+  cursor: pointer;
 }
