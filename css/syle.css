@@ -296,3 +296,108 @@ span {
   font-weight: 500;
 
 }
+
+.download-general {
+  display: flex;
+}
+
+
+.download-btn-2 {
+  display: flex;
+  margin-top: 59px;
+}
+
+.download-apple img {
+  width: 193.11px;
+  height: 57.26px;
+}
+
+.download-play img {
+  width: 193.11px;
+  height: 57.26px;
+  margin-left: 25px;
+}
+
+
+.download-b {
+  margin-top: -100px;
+}
+
+.download-b img {
+  width: 550.65px;
+  height: 627.41px;
+}
+
+.footer-section {
+  display: flex;
+  padding-left: 89px;
+  padding-bottom: 40px;
+}
+
+.footer-logo img {
+  width: 234.3px;
+}
+
+.footer-a {
+  margin-left: 191px;
+}
+
+.footer-a h4 {
+  margin-bottom: 47px;
+  color: #0A142F;
+  font-size: 19px;
+  font-family: "Open Sans", sans-serif;
+  
+}
+
+.footer-b h4 {
+  margin-bottom: 47px;
+  color: #0A142F;
+  font-size: 19px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.footer-c h4 {
+  margin-bottom: 47px;
+  color: #0A142F;
+  font-size: 19px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.footer-a p {
+  color: #0A142F;
+  margin-top: 46px;
+  font-weight: 500;
+  font-size: 16.13px;
+}
+
+.footer-b p {
+  color: #0A142F;
+  margin-top: 46px;
+  font-weight: 500;
+  font-size: 16.13px;
+}
+
+.footer-c p {
+  color: #0A142F;
+  margin-top: 46px;
+  font-weight: 500;
+  font-size: 16.13px;
+}
+
+.footer-b {
+  margin-left: 172px;
+}
+
+.footer-c {
+  margin-left: 162px;
+}
+
+.footer-icon {
+  padding-left: 100px;
+}
+
+.footer-icon img {
+  width: 115.24px;
+  margin-bottom: 100px;
+}
