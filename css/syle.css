@@ -48,6 +48,7 @@ section {
   margin-left: 40px;
   font-weight: 600;
   color: #888888;
+  cursor: pointer;
 }
 
 .navbar-btn {
@@ -219,6 +220,7 @@ span {
   height: 290px;
   background-color: white;
   border-radius: 20px;
+  display: flex;
 }
 
 .testimony-2 {
@@ -226,6 +228,7 @@ span {
   height: 290px;
   background-color: white;
   border-radius: 20px;
+  display: flex;
 }
 
 .testimony-img img {
@@ -233,4 +236,63 @@ span {
   height: 239px;
   margin-top: 27px;
   margin-left: 25px;
+}
+
+.testimony-text {
+  padding-left: 31px;
+}
+
+.icon img {
+  width: 88px;
+  height: 53px;
+  margin-top: 49px;
+  margin-left: -20px;
+}
+
+.testimony-text p {
+  margin-top: 27px;
+  color: #6D6968;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.testimony-text h2 {
+  margin-top: 40px;
+  color: #111529;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+}
+
+.download-section {
+  margin-top: 156px;
+  padding-left: 100px;
+  padding-bottom: 197px;
+}
+
+.download-background {
+  width: 1240px;
+  height: 482px;
+  background-color: #E19F65;
+  border-radius: 32px;
+  padding-left: 81px; 
+  padding-top: 65px; 
+}
+
+.download-background h2 {
+  color: #F7FCFC;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: normal;
+  /* margin-top: 200px; */
+}
+
+.download-background p {
+  font-family: "Open Sans", sans-serif;
+  margin-top: 51px;
+  color: #FEE3CF;
+  font-size: 18px;
+  font-weight: 500;
+
 }
