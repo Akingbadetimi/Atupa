@@ -263,3 +263,152 @@ span {
   margin-top: 99px;
   margin-left: 179px;
 }
+
+.feature-3 {
+  padding-left: 157px;
+  display: flex;
+  margin-top: 116px;
+}
+
+.feature-3-text {
+  margin-top: 254px;
+}
+
+
+.feature-3-text h1 {
+  color: #2F327D;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 29px;
+  font-weight: 600;
+}
+
+.feature-3-text p {
+  color: #696984;
+  font-family: 'Poppins', sans-serif !important;
+  margin-top: 57px;
+}
+
+.feature-3-text span {
+  color: #F48C06;
+}
+
+.feature-3-img {
+  margin-top: 117px;
+  margin-left: 285px;
+}
+
+.feature-3-img img {
+  width: 632.82px !important;
+  height: 406.31px !important;
+  margin-left: -180px;
+
+}
+
+.feature-4 {
+  margin-top: 117px;
+  display: flex;
+  padding-left: 119px;
+}
+
+.feature-4-img img {
+  width: 591.27px;
+  height: 398px;
+}
+
+
+.feature-4-text h1 {
+  color: #2F327D;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 29px;
+  font-weight: 600;
+}
+
+.feature-4-text span {
+  color: #F48C06;
+}
+
+.feature-4-text p {
+  color: #696984;
+  font-family: 'Poppins', sans-serif !important;
+  margin-top: 57px;
+}
+
+.feature-4-text {
+  margin-top: 99px;
+  margin-left: 179px;
+}
+
+.footer-section {
+  display: flex;
+  padding-left: 89px;
+  padding-bottom: 40px;
+  margin-top: 319px;
+}
+
+.footer-logo img {
+  width: 234.3px;
+}
+
+.footer-a {
+  margin-left: 191px;
+}
+
+.footer-a h4 {
+  margin-bottom: 47px;
+  color: #0A142F;
+  font-size: 19px;
+  font-family: "Open Sans", sans-serif;
+  
+}
+
+.footer-b h4 {
+  margin-bottom: 47px;
+  color: #0A142F;
+  font-size: 19px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.footer-c h4 {
+  margin-bottom: 47px;
+  color: #0A142F;
+  font-size: 19px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.footer-a p {
+  color: #0A142F;
+  margin-top: 46px;
+  font-weight: 500;
+  font-size: 16.13px;
+}
+
+.footer-b p {
+  color: #0A142F;
+  margin-top: 46px;
+  font-weight: 500;
+  font-size: 16.13px;
+}
+
+.footer-c p {
+  color: #0A142F;
+  margin-top: 46px;
+  font-weight: 500;
+  font-size: 16.13px;
+}
+
+.footer-b {
+  margin-left: 172px;
+}
+
+.footer-c {
+  margin-left: 162px;
+}
+
+.footer-icon {
+  padding-left: 100px;
+}
+
+.footer-icon img {
+  width: 115.24px;
+  margin-bottom: 100px;
+}
