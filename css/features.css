@@ -1,0 +1,265 @@
+p {
+  font-family: Roboto, arial;
+}
+
+body {
+  margin: 0;
+  padding-top: 70px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  scroll-behavior: smooth;
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  min-height: 100vh;
+  padding: 10rem 9% 0rem;
+}
+
+/* Navbar */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+}
+
+.logo img {
+  width: 180px;
+  height: 33.15px;
+}
+
+.navbar-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -80px;
+}
+
+.navbar-text h3 {
+  font-family: "Open Sans", sans-serif;
+  margin-left: 40px;
+  font-weight: 600;
+  color: #888888;
+  cursor: pointer;
+}
+
+.navbar-btn {
+  padding-right: 100px;
+}
+
+.navbar-btn button {
+  width: 182px;
+  height: 52px;
+  background-color: #e19f65;
+  color: white;
+  border-radius: 44px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.navbar-section-btn {
+  margin-top: 86px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-section-btn button {
+  width: 239px;
+  height: 36px;
+  border-radius: 23px;
+  background-color: white;
+  border: 2px;
+  border-style: solid;
+  border-color: #7b462f;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #908f90;
+}
+
+.navbar-section-text {
+  align-items: center;
+  text-align: center;
+  margin-top: 31px;
+}
+
+.navbar-section-text h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 59px;
+}
+
+span {
+  color: #e19f65;
+}
+
+.navbar-section-text h3 {
+  margin-top: 26px;
+  color: #7d7d7d;
+  font-weight: 600;
+}
+
+.download-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 51px;
+}
+
+.navbar-section {
+  padding-top: 68px;
+}
+
+.navbar-section-heading {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-section span {
+  color: #F48C06;
+}
+
+.navbar-section h1 {
+  color: #2F327D;
+  font-size: 26.12px;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.navbar-section-heading p {
+  margin-top: 15px;
+  color: #696984;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.features-heading-section {
+  display: flex;
+  margin-top: 76px;
+  padding-left: 103px;
+}
+
+.features-img img {
+  width: 701.46px;
+  height: 471.61px;
+}
+
+.features-text {
+  margin-top: 86px;
+  margin-left: 99px;
+}
+
+.feature-text-list-1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 38px;
+}
+
+.feature-text-list-2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 29px;
+}
+
+.feature-text-list-3 {
+  display: flex;
+  justify-content: center;
+  margin-top: 29px;
+}
+
+.img-icon img {
+  width: 60px;
+  height: 53px;
+}
+
+.icon-text h4 {
+  color: #696984;
+  font-size: 15.96px;
+  font-weight: 500;
+  letter-spacing: 2%;
+  margin-left: 32px;
+}
+
+.feature-1 {
+  padding-left: 157px;
+  display: flex;
+  margin-top: 116px;
+}
+
+.feature-1-text {
+  margin-top: 254px;
+}
+
+
+.feature-1-text h1 {
+  color: #2F327D;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 29px;
+  font-weight: 600;
+}
+
+.feature-1-text p {
+  color: #696984;
+  font-family: 'Poppins', sans-serif !important;
+  margin-top: 57px;
+}
+
+.feature-1-text span {
+  color: #F48C06;
+}
+
+.feature-1-img {
+  margin-top: 117px;
+  margin-left: 285px;
+}
+
+.feature-1-img img {
+  width: 498.85px;
+  height: 443.31px;
+}
+
+.feature-2 {
+  margin-top: 117px;
+  display: flex;
+  padding-left: 119px;
+}
+
+.feature-2-img img {
+  width: 499.04px;
+  height: 472.69px;
+}
+
+
+.feature-2-text h1 {
+  color: #2F327D;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 29px;
+  font-weight: 600;
+}
+
+.feature-2-text span {
+  color: #F48C06;
+}
+
+.feature-2-text p {
+  color: #696984;
+  font-family: 'Poppins', sans-serif !important;
+  margin-top: 57px;
+}
+
+.feature-2-text {
+  margin-top: 99px;
+  margin-left: 179px;
+}
