@@ -401,3 +401,51 @@ span {
   width: 115.24px;
   margin-bottom: 100px;
 }
+
+
+
+/* ====================== Responsive Design ========================== */
+@media (max-width: 991px) {
+  .navbar-text {
+    display: none;
+  }
+
+  .navbar-btn {
+    display: none;
+  }
+
+  .navbar-section-btn button {
+    width: 210px;
+    font-size: 11px;
+  }
+
+  .navbar-section-text h1 {
+    font-size: 28px;
+  }
+
+  
+  .navbar-section-text h3 {
+    font-size: 18px;
+    
+  }
+
+  .navbar-section-text h3 br {
+      display: none;
+    }
+
+  .header-img img {
+    width: 441px;
+    z-index: -1;
+  }
+
+  .square {
+    height: 100px;
+    margin-top: -240px;
+  }
+
+}
+
+@media (max-width: 480px) {
+  
+}
+
