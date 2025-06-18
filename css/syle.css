@@ -406,6 +406,10 @@ span {
 
 /* ====================== Responsive Design ========================== */
 @media (max-width: 991px) {
+  body {
+    overflow-x: hidden;
+  }
+
   .navbar-text {
     display: none;
   }
@@ -442,6 +446,146 @@ span {
     height: 100px;
     margin-top: -240px;
   }
+
+  .section-2 {
+    display: inline-block;
+
+  }
+
+  .section-2-text h2 {
+    font-size: 28px;
+  }
+
+  .section-2-text p {
+    font-size: 18px;
+  }
+
+  .section-2-text button {
+    width: 120px;
+    height: 60px;
+    font-size: 14px;
+    margin-bottom: 60px;
+  }  
+
+  .section-2-img img {
+    width: 400px;
+    height: 450px;
+    margin-left: -40px;
+  }
+
+  br {
+    display: none;
+  }
+
+  .testimony-section {
+    background-color: white;
+  }
+
+  .testimony-section h1 {
+    font-size: 22px;
+  }
+
+  .testimony {
+    display: inline-block;
+    margin-left: -85px;
+  }
+
+  .testimony-1 {
+    display: inline-block;
+  }
+
+  .testimony-2 {
+    display: inline-block;
+    margin-top: 20px;
+  }
+
+  .testimony-img img {
+    width: 109px;
+    height: 179px;
+  }
+
+  .icon img {
+    width: 68px;
+    height: 38px;
+    margin-top: -1px;
+  }
+
+  .testimony-text p {
+    font-size: 13px;
+  }
+
+  .testimony-text h2 {
+    font-size: 16px;
+  }
+
+  .download-section {
+    margin-top: 350px;
+    margin-left: -60px;
+  }
+
+  .download-a h2 {
+    font-size: 24px;
+  }
+
+  .download-a p {
+
+    font-size: 11px;
+  }
+
+  .download-b {
+    display: none;
+  }
+
+  .download-background {
+    width: 440px;
+    height: 482px;
+    background-color: #E19F65;
+    border-radius: 32px;
+    padding-left: 21px; 
+    padding-top: 65px; 
+    overflow-x: hidden;
+}
+
+.download-apple img {
+  width: 193.11px;
+  height: 57.26px;
+}
+
+.download-play img {
+  width: 193.11px;
+  height: 57.26px;
+  /* margin-top: 22px; */
+  margin-left: 22px;
+}
+
+/* 
+.download-btn-2 {
+  display: inline-block;
+
+} */
+
+.footer-section {
+  display: inline-block;
+  /* padding-left: 89px;
+  padding-bottom: 40px; */
+}
+
+.footer-a {
+  margin-left: 0px;
+  margin-top: 60px;
+}
+
+.footer-b {
+  margin-left: 0px;
+  margin-top: 60px;
+}
+
+.footer-c {
+  margin-left: 0px;
+  margin-top: 60px;
+}
+
+
 
 }
 
